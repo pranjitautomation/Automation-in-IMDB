@@ -12,4 +12,4 @@ This template robot:
 - [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
 - [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
 
-- Extract Top 20 Tv shows list from IMDB site and store the data in csv. 
+- Extract Top 20 Tv shows list from IMDB site and store data in csv. 
